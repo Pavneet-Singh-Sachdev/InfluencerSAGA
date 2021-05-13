@@ -235,6 +235,7 @@ li{
   }
   .logo,.payment,.small,.med,.large,.apple{
       position: absolute;
+	  z-index: 5;
   }
   .payment{
       width: 10%;
